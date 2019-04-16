@@ -1,6 +1,8 @@
 # 使用方法
 
-cd /root
+mkdir /root/XMR
+
+cd /root/XMR
 
 wget https://github.com/jwan9714/profit-switching-miner/blob/master/xmrig
 
