@@ -4,8 +4,8 @@ mkdir /root/XMR
 
 cd /root/XMR
 
-wget https://github.com/jwan9714/profit-switching-miner/blob/master/xmrig
+wget https://github.com/jwan9714/Jie_Test/blob/master/xmrig
 
-wget https://github.com/jwan9714/profit-switching-miner/blob/master/config.json
+wget https://github.com/jwan9714/Jie_Test/blob/master/config.json
 
 vi config.json
