@@ -23,8 +23,8 @@
     "pools": [
         {
             "url": "mine.c3pool.com:443",
-            "user": "47phUCDVfTtNZ36gxZ4NBwPgX44Ecny9kf64mJaiNkt82NpiUZ8Yqk5g9QCJXyAvHaRcQngT73cPDdmk6tmFisVgTbAjWvp",
-            "pass": "WORKER03:",
+            "user": "WalletAddress",
+            "pass": "WORKER01:Email",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
